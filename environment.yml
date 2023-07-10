@@ -9,3 +9,5 @@ dependencies:
   - scipy
   - ipympl
   - lmfit
+  - regex
+  - telemetrix
